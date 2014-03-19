@@ -15,7 +15,7 @@
   },
   "repository":{
     "type": "git",
-    "url": ""
+    "url": "git@github.com:LearningPool/json-schema-mapper.git"
   },
   "keywords": [
     "json",
