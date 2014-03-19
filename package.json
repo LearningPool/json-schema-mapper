@@ -1,0 +1,32 @@
+{
+  "name": "json-schema-mapper",
+  "version": "0.0.1",
+  "description": "A json-schema mapper",
+  "main": "lib/mapper.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "repository":{
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "json-schema",
+    "orm",
+    "mapper"
+  ],
+  "author": "Learning Pool",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "URIjs": "~1.12.0"
+  }
+}
