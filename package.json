@@ -1,6 +1,6 @@
 {
   "name": "json-schema-mapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A json-schema mapper",
   "main": "lib/mapper.js",
   "directories": {
@@ -13,7 +13,7 @@
     "mocha": "*",
     "should": "*"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "git@github.com:LearningPool/json-schema-mapper.git"
   },
@@ -26,7 +26,7 @@
   ],
   "author": "Learning Pool",
   "dependencies": {
-    "underscore": "~1.6.0",
-    "URIjs": "~1.12.0"
+    "underscore": "^1.13.7",
+    "urijs": "^1.19.11"
   }
 }
